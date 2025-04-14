@@ -1,0 +1,53 @@
+[
+    {
+      "id": "basic_001",
+      "name": "Basic Plan",
+      "price": 29,
+      "description": "Access to essential gym equipment and facilities. Perfect for beginners.",
+      "popular": true,
+      "features": [
+        "Access to gym equipment",
+        "Free Wi-Fi",
+        "Locker room access",
+        "1 guest pass/month",
+        "Access during staffed hours",
+        "Basic health assessment (once)",
+        "Mobile app check-in"
+  
+      ]
+    },
+    {
+      "id": "standard_002",
+      "name": "Standard Plan",
+      "price": 49,
+      "description": "Includes gym access plus group classes and wellness resources.",
+      "features": [
+        "Everything in Basic",
+        "Group fitness classes (Zumba, Yoga, etc.)",
+        "5 guest passes/month",
+        "Nutrition guide access",
+        "Online workout videos",
+        "Free towel service",
+        "Mid-level health assessment (quarterly)",
+        "10% discount at smoothie bar"
+      ]
+    },
+    {
+      "id": "premium_003",
+      "name": "Premium Plan",
+      "price": 79,
+      "description": "Full access including personal training, 24/7 entry, and recovery lounge.",
+      "features": [
+        "Everything in Standard",
+        "24/7 gym access",
+        "Personal trainer (1 session/month)",
+        "Sauna and recovery lounge",
+        "Unlimited guest passes",
+        "Monthly body composition analysis",
+        "Priority booking for classes",
+        "Free branded gym merch (shirt, bottle)",
+        "Early access to events and workshops"
+      ]
+    }
+  ]
+  
