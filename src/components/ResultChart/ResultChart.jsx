@@ -1,6 +1,5 @@
-import { LineChart } from 'lucide-react';
 import React from 'react';
-import { Line, XAxis, YAxis } from 'recharts';
+import { LineChart, Line, XAxis, YAxis } from 'recharts';
 
 const resultData = [
     {
